@@ -1,2 +1,2 @@
-# Apl2
-this repo contains all lab exercises 
+# Ap-Lab-2
+This repo contains all lab exercises 
